@@ -1,0 +1,139 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "World War I",
+      "startDate": "1914-07-28",
+      "endDate": "1918-11-11",
+      "category": "War",
+      "difficulty": "easy",
+      "description": "The Great War that involved most of the world's powers"
+    },
+    {
+      "id": 2,
+      "name": "Roman Empire",
+      "startDate": "0027-01-16",
+      "endDate": "1453-05-29",
+      "category": "Empire",
+      "difficulty": "hard",
+      "description": "One of the largest and longest-lasting empires in history"
+    },
+    {
+      "id": 3,
+      "name": "World War II",
+      "startDate": "1939-09-01",
+      "endDate": "1945-09-02",
+      "category": "War",
+      "difficulty": "easy",
+      "description": "The deadliest conflict in human history"
+    },
+    {
+      "id": 4,
+      "name": "American Civil War",
+      "startDate": "1861-04-12",
+      "endDate": "1865-05-26",
+      "category": "War",
+      "difficulty": "medium",
+      "description": "A civil war fought in the United States"
+    },
+    {
+      "id": 5,
+      "name": "Cold War",
+      "startDate": "1947-03-12",
+      "endDate": "1991-12-26",
+      "category": "Political",
+      "difficulty": "medium",
+      "description": "Period of geopolitical tension between the United States and Soviet Union"
+    },
+    {
+      "id": 6,
+      "name": "Renaissance",
+      "startDate": "1300-01-01",
+      "endDate": "1600-12-31",
+      "category": "Cultural",
+      "difficulty": "hard",
+      "description": "Period of cultural, artistic, and intellectual rebirth in Europe"
+    },
+    {
+      "id": 7,
+      "name": "Great Depression",
+      "startDate": "1929-10-29",
+      "endDate": "1939-09-01",
+      "category": "Economic",
+      "difficulty": "medium",
+      "description": "Severe worldwide economic depression"
+    },
+    {
+      "id": 8,
+      "name": "French Revolution",
+      "startDate": "1789-05-05",
+      "endDate": "1799-11-09",
+      "category": "Political",
+      "difficulty": "medium",
+      "description": "Period of radical political and social transformation in France"
+    },
+    {
+      "id": 9,
+      "name": "Industrial Revolution",
+      "startDate": "1760-01-01",
+      "endDate": "1840-12-31",
+      "category": "Technological",
+      "difficulty": "hard",
+      "description": "Transition to new manufacturing processes"
+    },
+    {
+      "id": 10,
+      "name": "Age of Exploration",
+      "startDate": "1400-01-01",
+      "endDate": "1600-12-31",
+      "category": "Exploration",
+      "difficulty": "hard",
+      "description": "Period of extensive overseas exploration and colonization"
+    },
+    {
+      "id": 11,
+      "name": "Napoleonic Wars",
+      "startDate": "1803-05-18",
+      "endDate": "1815-11-20",
+      "category": "War",
+      "difficulty": "medium",
+      "description": "Series of conflicts involving Napoleon's French Empire"
+    },
+    {
+      "id": 12,
+      "name": "Black Death",
+      "startDate": "1347-01-01",
+      "endDate": "1353-12-31",
+      "category": "Pandemic",
+      "difficulty": "medium",
+      "description": "Devastating bubonic plague pandemic in Europe"
+    },
+    {
+      "id": 13,
+      "name": "Viking Age",
+      "startDate": "0793-01-01",
+      "endDate": "1066-10-14",
+      "category": "Cultural",
+      "difficulty": "hard",
+      "description": "Period of Scandinavian expansion and exploration"
+    },
+    {
+      "id": 14,
+      "name": "Space Race",
+      "startDate": "1955-01-01",
+      "endDate": "1975-07-17",
+      "category": "Technological",
+      "difficulty": "easy",
+      "description": "20th-century competition between USSR and US to achieve spaceflight capability"
+    },
+    {
+      "id": 15,
+      "name": "Ming Dynasty",
+      "startDate": "1368-01-23",
+      "endDate": "1644-04-25",
+      "category": "Empire",
+      "difficulty": "hard",
+      "description": "Imperial dynasty of China"
+    }
+  ]
+}
