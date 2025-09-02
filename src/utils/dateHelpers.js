@@ -10,11 +10,7 @@ export const formatDate = (date) => {
     return `${year} ${era}`;
   }
   
-  return date.toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'short',
-    day: 'numeric'
-  });
+  return year.toString();
 };
 
 export const calculateDuration = (startDate, endDate) => {
@@ -47,4 +43,13 @@ export const isValidDate = (dateString) => {
   if (!dateString) return false;
   const date = new Date(dateString);
   return date instanceof Date && !isNaN(date);
+};
+
+export const isValidYear = (year) => {
+  const yearNum = parseInt(year);
+  return !isNaN(yearNum) && yearNum > 0 && yearNum <= 2024;
+};
+
+export const yearToDateString = (year) => {
+  return `${year.toString().padStart(4, '0')}-01-01`;
 };

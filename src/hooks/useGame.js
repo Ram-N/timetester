@@ -6,7 +6,7 @@ export const useGame = () => {
   const [events] = useState(eventsData.events);
   const [currentEventIndex, setCurrentEventIndex] = useState(0);
   const [gameState, setGameState] = useState('playing'); // 'playing', 'results', 'finished'
-  const [userGuess, setUserGuess] = useState({ startDate: '', endDate: '' });
+  const [userGuess, setUserGuess] = useState({ startDate: '', endDate: '', startYear: '', endYear: '' });
   const [results, setResults] = useState([]);
   const [totalScore, setTotalScore] = useState(0);
 
@@ -15,7 +15,7 @@ export const useGame = () => {
 
   const submitGuess = () => {
     if (!userGuess.startDate || !userGuess.endDate) {
-      alert('Please enter both start and end dates');
+      alert('Please enter both start and end years');
       return;
     }
 
@@ -36,7 +36,7 @@ export const useGame = () => {
       setGameState('finished');
     } else {
       setCurrentEventIndex(prev => prev + 1);
-      setUserGuess({ startDate: '', endDate: '' });
+      setUserGuess({ startDate: '', endDate: '', startYear: '', endYear: '' });
       setGameState('playing');
     }
   };
