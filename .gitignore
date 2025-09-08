@@ -47,3 +47,12 @@ logs
 
 # Optional eslint cache
 .eslintcache
+
+# Playwright MCP files
+.playwright-mcp/
+
+# Backup files
+*.backup
+
+# VS Code workspace files
+*.code-workspace
