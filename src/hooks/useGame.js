@@ -6,7 +6,7 @@ export const useGame = () => {
   const [events] = useState(eventsData.events);
   const [currentEventIndex, setCurrentEventIndex] = useState(0);
   const [gameState, setGameState] = useState('playing'); // 'playing', 'results', 'finished'
-  const [userGuess, setUserGuess] = useState({ startDate: '', endDate: '', startYear: '', endYear: '' });
+  const [userGuess, setUserGuess] = useState({ startYear: null, endYear: null });
   const [results, setResults] = useState([]);
   const [totalScore, setTotalScore] = useState(0);
 
@@ -14,7 +14,7 @@ export const useGame = () => {
   const isLastEvent = currentEventIndex === events.length - 1;
 
   const submitGuess = () => {
-    if (!userGuess.startDate || !userGuess.endDate) {
+    if (!userGuess.startYear || !userGuess.endYear) {
       alert('Please enter both start and end years');
       return;
     }
@@ -36,7 +36,7 @@ export const useGame = () => {
       setGameState('finished');
     } else {
       setCurrentEventIndex(prev => prev + 1);
-      setUserGuess({ startDate: '', endDate: '', startYear: '', endYear: '' });
+      setUserGuess({ startYear: null, endYear: null });
       setGameState('playing');
     }
   };
@@ -44,7 +44,7 @@ export const useGame = () => {
   const resetGame = () => {
     setCurrentEventIndex(0);
     setGameState('playing');
-    setUserGuess({ startDate: '', endDate: '' });
+    setUserGuess({ startYear: null, endYear: null });
     setResults([]);
     setTotalScore(0);
   };
@@ -63,7 +63,7 @@ export const useGame = () => {
     const shuffledEvents = shuffleEvents();
     setCurrentEventIndex(0);
     setGameState('playing');
-    setUserGuess({ startDate: '', endDate: '' });
+    setUserGuess({ startYear: null, endYear: null });
     setResults([]);
     setTotalScore(0);
     // In a full implementation, you'd update the events array here
