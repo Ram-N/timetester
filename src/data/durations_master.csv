@@ -1,0 +1,271 @@
+eventID,time_start,time_end,Duration,event,details,wikipedia,mnemonic,itemDifficulty,categories,America,Europe,Asia,Africa,China,Discovery,Britain,France,Greek,India,Invention,MiddleEast,prehistory,Religion,Roman,Royalty,Russia,Science,Wars,World,diffCat,NumYearStart,NumYearEnd
+0,4500 BC,1900 BC,2600,Sumer,,Sumer,,10,,,,,,,,,,,,,,,,,,,,,,H,-4500,-1900
+1,3000 BC,858 BC,,Egyptian Empire,Defeated by Assyrian invasion and succeeded by them.,,,6,,,,,,,,,,,,,,,,,,,,,,M,-3000,-858
+2,2500 BC,911 BC,1589,Assyria,"The timeframe of the Assyrian Empire is generally considered to be from around 2025 BCE (Before Common Era) to 609 BCE, when the empire was conquered by the Babylonians and the Medes.",Assyria,,10,,,,,,,,,,,,,,,,,,,,,,H,-2500,-911
+3,2334 BC,2154 BC,180,Akkadian Empire,,Akkadian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-2334,-2154
+4,1900 BC,1600 BC,300,Babylonian Empire,,Babylonian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-1900,-1600
+5,1600 BC,1046 BC,554,Shang dynasty,,Shang dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,-1600,-1046
+6,1550 BC,1077 BC,473,Egyptian Empire,,Egyptian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-1550,-1077
+7,1500 BC,1300 BC,200,Kingdom of Mitanni,,Kingdom of Mitanni,,10,,,,,,,,,,,,,,,,,,,,,,H,-1500,-1300
+8,1460 BC,1180 BC,280,Hittite Empire,,Hittite Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-1460,-1180
+9,1210 BC,1100 BC,110,Elamite Empire,,Elamite Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-1210,-1100
+10,1070 BC,350,1420,Kingdom of Kush,,Kingdom of Kush,,10,,,,,,,,,,,,,,,,,,,,,,H,-1070,350
+11,1050 BC,586 BC,464,Kingdom of Judah (united monarchy),,Kingdom of Judah (united monarchy),,10,,,,,,,,,,,,,,,,,,,,,,H,-1050,-586
+12,1047 BC,930 BC,117,Kingdom of Israel (united monarchy),,Kingdom of Israel (united monarchy),,10,,,,,,,,,,,,,,,,,,,,,,H,-1047,-930
+13,1046 BC,256 BC,790,Zhou dynasty,,Zhou dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,-1046,-256
+14,911 BC,609 BC,302,Neo-Assyrian Empire,,Neo-Assyrian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-911,-609
+15,900 BC,200 BC,700,Chav n Empire,,Chav n Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-900,-200
+16,858 BC,612 BC,,Assyrian Empire,Nineveh destroyed by Medes and Babylonians in 612 BC then defeated by Babylonians.,,,6,,,,,,,,,,,,,,,,,,,,,,M,-858,-612
+17,814 BC,146 BC,668,Carthaginian Empire,,Carthaginian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-814,-146
+18,626 BC,539 BC,87,Neo-Babylonian Empire,,Neo-Babylonian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-626,-539
+19,625 BC,549 BC,76,Median Empire,,Median Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-625,-549
+20,605 BC,539 BC,,Babylonian Empire,"Begun by Nebuchadnezzar, ended by Medes and Persians.",,,6,,,,,,,,,,,,,,,,,,,,,,M,-605,-539
+21,550 BC,330 BC,220,Achaemenid Empire,,Achaemenid Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-550,-330
+22,539 BC ,532 BC,,Media-Persian Empire,Together with Medes destroyed Babylon.   Established by Cyrus the Great.   Ended by defeat at hands of Alexander.,,,8,,,,,,,,,,,,,,,,,,,,,,H,-539,-532
+23,500 BC,1759,2259,Pandyan dynasty,,Pandyan dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,-500,1759
+24,450 BC,350 BC,100,Nanda Empire,,Nanda Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-450,-350
+25,400 BC,1729,2129,Chera dynasty,,Chera dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,-400,1729
+26,400 BC,1540,1940,Chola empire,,Chola empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-400,1540
+27,334 BC,323 BC,11,Macedonian Empire,,Macedonian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-334,-323
+28,331 BC,31 BC,,Grecian Empire,Alexander defeated the Persians and established Greek world rule.   Ended by Roman,,,6,,,,,,,,,,,,,,,,,,,,,,M,-331,-31
+29,321 BC,185 BC,136,Mauryan Empire,,Mauryan Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-321,-185
+30,312 BC,63 BC,249,Seleucid Empire,,Seleucid Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-312,-63
+31,305 BC,30 BC,275,Ptolemaic Empire,,Ptolemaic Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-305,-30
+32,247 BC,224,471,Parthian Empire,,Parthian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-247,224
+33,230 BC,220,450,Satavahana dynasty,,Satavahana dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,-230,220
+34,225 BC,44,269,Mauretania,,Mauretania,,10,,,,,,,,,,,,,,,,,,,,,,H,-225,44
+35,221 BC,206 BC,15,Qin dynasty,,Qin dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,-221,-206
+36,206 BC,220,426,Han dynasty,,Han dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,-206,220
+37,202 BC,40 BC,162,Numidia,,Numidia,,10,,,,,,,,,,,,,,,,,,,,,,H,-202,-40
+38,190 BC,428,618,Armenian Empire,,Armenian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-190,428
+39,185 BC,73 BC,112,Shunga Empire,,Shunga Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-185,-73
+40,168 BC,106,274,Dacian Empire,,Dacian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-168,106
+41,120 BC,47 BC,73,Pontic Empire,,Pontic Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-120,-47
+42,75 BC,30 BC,45,Kanva dynasty,,Kanva dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,-75,-30
+43,37 BC,668,705,Goguryeo,,Goguryeo,,10,,,,,,,,,,,,,,,,,,,,,,H,-37,668
+44,27 BC,1453,1480,Roman Empire,,Roman Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,-27,1453
+45,9,23,14,Xin dynasty,,Xin dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,9,23
+46,30,345,315,Kushan Empire,,Kushan Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,30,345
+47,50,550,500,Funan,,Funan,,10,,,,,,,,,,,,,,,,,,,,,,H,50,550
+48,150,940,790,Aksumite Empire,,Aksumite Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,150,940
+49,220,265,45,Cao Wei,,Cao Wei,,10,,,,,,,,,,,,,,,,,,,,,,H,220,265
+50,221,263,42,Shu Han,,Shu Han,,10,,,,,,,,,,,,,,,,,,,,,,H,221,263
+51,224,651,427,Sassanid dynasty,,Sassanid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,224,651
+52,229,280,51,Eastern Wu,,Eastern Wu,,10,,,,,,,,,,,,,,,,,,,,,,H,229,280
+53,260,274,14,Gallic Empire,,Gallic Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,260,274
+54,266,420,154,Jin dynasty (266 420),,Jin dynasty (266 420),,10,,,,,,,,,,,,,,,,,,,,,,H,266,420
+55,270,273,3,Palmyrene Empire,,Palmyrene Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,270,273
+56,286,296,10,Britannic Empire,,Britannic Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,286,296
+57,300,1240,940,Ghana Empire,,Ghana Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,300,1240
+58,320,550,230,Gupta Empire,,Gupta Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,320,550
+59,330,1453,1123,Byzantine Empire,,Byzantine Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,330,1453
+60,330,555,225,Rouran Khaganate,,Rouran Khaganate,,10,,,,,,,,,,,,,,,,,,,,,,H,330,555
+61,345,540,195,Kadamba dynasty,,Kadamba dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,345,540
+62,350,655,305,Varman dynasty,,Varman dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,350,655
+63,370,469,99,Hunnic Empire,,Hunnic Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,370,469
+64,395,476,81,Western Roman Empire,,Western Roman Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,395,476
+65,420,567,147,Hephthalite Empire,,Hephthalite Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,420,567
+66,435,534,99,Vandal Kingdom,,Vandal Kingdom,,10,,,,,,,,,,,,,,,,,,,,,,H,435,534
+67,496,1122,626,Toltec Empire,,Toltec Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,496,1122
+68,500,1100,600,Wari Empire,,Wari Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,500,1100
+69,528,550,22,Aulikara Empire,,Aulikara Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,528,550
+70,543,753,210,Chalukya dynasty,,Chalukya dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,543,753
+71,550,802,252,Chenla,,Chenla,,10,,,,,,,,,,,,,,,,,,,,,,H,550,802
+72,552,747,195,G kt rk Khaganate,,G kt rk Khaganate,,10,,,,,,,,,,,,,,,,,,,,,,H,552,747
+73,581,618,37,Sui dynasty,,Sui dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,581,618
+74,585,698,113,Exarchate of Africa,,Exarchate of Africa,,10,,,,,,,,,,,,,,,,,,,,,,H,585,698
+75,600,1136,536,Gurjara-Pratihara dynasty,,Gurjara-Pratihara dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,600,1136
+76,606,647,41,Empire of Harsha,,Empire of Harsha,,10,,,,,,,,,,,,,,,,,,,,,,H,606,647
+77,618,907,289,Tang dynasty,,Tang dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,618,907
+78,624,1189,565,Eastern Chalukya Empire,,Eastern Chalukya Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,624,1189
+79,632,661,29,Rashidun Caliphate,,Rashidun Caliphate,,10,,,,,,,,,,,,,,,,,,,,,,H,632,661
+80,650,900,250,Mlechchha dynasty,,Mlechchha dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,650,900
+81,661,750,89,Umayyad Caliphate,,Umayyad Caliphate,,10,,,,,,,,,,,,,,,,,,,,,,H,661,750
+82,680,1018,338,First Bulgarian Empire,,First Bulgarian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,680,1018
+83,683,1293,610,Srivijaya Empire,,Srivijaya Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,683,1293
+84,690,705,15,Zhou2 dynasty,,Zhou dynasty (690 705),,10,,,,,,,,,,,,,,,,,,,,,,H,690,705
+85,697,1797,1100,Republic of Venice,,Republic of Venice,,10,,,,,,,,,,,,,,,,,,,,,,H,697,1797
+86,698,926,228,Balhae,,Balhae,,10,,,,,,,,,,,,,,,,,,,,,,H,698,926
+87,699,766,67,Turgesh Khaganate,,Turgesh Khaganate,,10,,,,,,,,,,,,,,,,,,,,,,H,699,766
+88,700,1000,300,Khazar Khaganate,,Khazar Khaganate,,10,,,,,,,,,,,,,,,,,,,,,,H,700,1000
+89,700,1387,687,Kanem Empire,,Kanem Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,700,1387
+90,742,848,106,Uyghur Khaganate,,Uyghur Khaganate,,10,,,,,,,,,,,,,,,,,,,,,,H,742,848
+91,750,1258,508,Abbasid Caliphate,,Abbasid Caliphate,,10,,,,,,,,,,,,,,,,,,,,,,H,750,1258
+92,750,1174,424,Pala Empire,,Pala Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,750,1174
+93,753,982,229,Rashtrakuta dynasty,,Rashtrakuta dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,753,982
+94,755,842,87,Tibetan Empire,,Tibetan Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,755,842
+95,756,1031,275,Caliphate of C rdoba,,Caliphate of C rdoba,,10,,,,,,,,,,,,,,,,,,,,,,H,756,1031
+96,777,909,132,Rustamid dynasty,,Rustamid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,777,909
+97,788,974,186,Idrisid dynasty,,Idrisid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,788,974
+98,800,909,109,Aghlabid Emirate,,Aghlabid Emirate,,10,,,,,,,,,,,,,,,,,,,,,,H,800,909
+99,800,843,43,Frankish Empire,,Frankish Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,800,843
+100,800,1200,400,Chauhan dynasty,,Chauhan dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,800,1200
+101,802,1431,629,Khmer Empire,,Khmer Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,802,1431
+102,819,999,180,Samanid Empire,,Samanid Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,819,999
+103,821,873,52,Tahirid dynasty,,Tahirid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,821,873
+104,833,900,67,Great Moravian Empire,,Great Moravian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,833,900
+105,835,1832,997,Kachari kingdom[1],,Kachari kingdom[1],,10,,,,,,,,,,,,,,,,,,,,,,H,835,1832
+106,840,1212,372,Kara-Khanid Khanate,,Kara-Khanid Khanate,,10,,,,,,,,,,,,,,,,,,,,,,H,840,1212
+107,849,1297,448,Pagan Empire,,Pagan Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,849,1297
+108,867,1002,135,Saffarid dynasty,,Saffarid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,867,1002
+109,879,1240,361,Kievan Rus',,Kievan Rus',,10,,,,,,,,,,,,,,,,,,,,,,H,879,1240
+110,900,1587,687,Tondo dynasty,,Tondo dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,900,1587
+111,900,1100,200,Pala dynasty,,Pala dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,900,1100
+112,909,1171,262,Fatimid Caliphate,,Fatimid Caliphate,,10,,,,,,,,,,,,,,,,,,,,,,H,909,1171
+113,915,1125,210,Liao dynasty,,Liao dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,915,1125
+114,918,1392,474,Goryeo,,Goryeo,,10,,,,,,,,,,,,,,,,,,,,,,H,918,1392
+115,934,1055,121,Buyid dynasty,,Buyid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,934,1055
+116,950,1865,915,Tu'i Tonga Empire,,Tu'i Tonga Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,950,1865
+117,960,1279,319,Song dynasty,,Song dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,960,1279
+118,962,1806,844,Holy Roman Empire,,Holy Roman Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,962,1806
+119,963,1187,224,Ghaznavid dynasty,,Ghaznavid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,963,1187
+120,972,1148,176,Zirids,,Zirids,,10,,,,,,,,,,,,,,,,,,,,,,H,972,1148
+121,973,1189,216,Western Chalukya Empire,,Western Chalukya Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,973,1189
+122,1016,1035,19,North Sea Empire,,North Sea Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1016,1035
+123,1026,1343,317,Hoysala Empire,,Hoysala Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1026,1343
+124,1037,1194,157,Seljuq Empire,,Seljuq Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1037,1194
+125,1038,1227,189,Western Xia dynasty,,Western Xia dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1038,1227
+126,1040,1147,107,Almoravid dynasty,,Almoravid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1040,1147
+127,1076,1253,177,Uyunid Emirate,,Uyunid Emirate,,10,,,,,,,,,,,,,,,,,,,,,,H,1076,1253
+128,1077,1221,144,Khwarazmian dynasty,,Khwarazmian dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1077,1221
+129,1096,1797,701,Republic of Genoa,,Republic of Genoa,,10,,,,,,,,,,,,,,,,,,,,,,H,1096,1797
+130,1100,1628,528,Saudeleur dynasty,,Saudeleur dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1100,1628
+131,1115,1234,119,Jin dynasty (1115 1234),,Jin dynasty (1115 1234),,10,,,,,,,,,,,,,,,,,,,,,,H,1115,1234
+132,1121,1269,148,Almohad Caliphate,,Almohad Caliphate,,10,,,,,,,,,,,,,,,,,,,,,,H,1121,1269
+133,1137,1974,837,Abyssinia,,Abyssinia,,10,,,,,,,,,,,,,,,,,,,,,,H,1137,1974
+134,1148,1215,67,Ghurid dynasty,,Ghurid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1148,1215
+135,1154,1242,88,Angevin Empire,,Angevin Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1154,1242
+136,1171,1260,89,Ayyubid dynasty,,Ayyubid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1171,1260
+137,1185,1422,237,Second Bulgarian Empire,,Second Bulgarian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1185,1422
+138,1204,1461,257,Empire of Trebizond,,Empire of Trebizond,,10,,,,,,,,,,,,,,,,,,,,,,H,1204,1461
+139,1204,1261,57,Empire of Nicaea,,Empire of Nicaea,,10,,,,,,,,,,,,,,,,,,,,,,H,1204,1261
+140,1204,1261,57,Latin Empire,,Latin Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1204,1261
+141,1206,1527,321,Delhi Sultanate,,Delhi Sultanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1206,1527
+142,1206,1368,162,Mongol Empire,,Mongol Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1206,1368
+143,1222,1292,70,Singhasari,,Singhasari,,10,,,,,,,,,,,,,,,,,,,,,,H,1222,1292
+144,1224,1246,22,Empire of Thessalonica,,Empire of Thessalonica,,10,,,,,,,,,,,,,,,,,,,,,,H,1224,1246
+145,1225,1687,462,Chagatai Khanate,,Chagatai Khanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1225,1687
+146,1228,1574,346,Hafsid Kingdom,,Hafsid Kingdom,,10,,,,,,,,,,,,,,,,,,,,,,H,1228,1574
+147,1228,1838,610,Ahom Dynasty,,Ahom Dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1228,1838
+148,1235,1610,375,Mali Empire,,Mali Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1235,1610
+149,1235,1556,321,Tlemcen,,Tlemcen,,10,,,,,,,,,,,,,,,,,,,,,,H,1235,1556
+150,1240,1502,262,Golden Horde,,Golden Horde,,10,,,,,,,,,,,,,,,,,,,,,,H,1240,1502
+151,1244,1465,221,Marinid dynasty,,Marinid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1244,1465
+152,1250,1517,267,Mamluk Sultanate,,Mamluk Sultanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1250,1517
+153,1256,1335,79,Ilkhanate,,Ilkhanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1256,1335
+154,1258,1914,657,Sultanate of Ternate,,Sultanate of Ternate,,10,,,,,,,,,,,,,,,,,,,,,,H,1258,1914
+155,1271,1368,97,Yuan dynasty,,Yuan dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1271,1368
+156,1274,1967,693,Sultanate of Tidore,,Sultanate of Tidore,,10,,,,,,,,,,,,,,,,,,,,,,H,1274,1967
+157,1279,1565,286,Cebu Rajahnate,,Cebu Rajahnate,,10,,,,,,,,,,,,,,,,,,,,,,H,1279,1565
+158,1290,1320,30,Khilji dynasty,,Khilji dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1290,1320
+159,1293,1527,234,Majapahit Empire,,Majapahit Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1293,1527
+160,1299,1922,623,Ottoman Empire,,Ottoman Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1299,1922
+161,1300,1945,645,Sultanate of Gowa,,Sultanate of Gowa,,10,,,,,,,,,,,,,,,,,,,,,,H,1300,1945
+162,1336,1646,310,Vijayanagara Empire,,Vijayanagara Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1336,1646
+163,1340,1591,251,Songhai Empire,,Songhai Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1340,1591
+164,1346,1371,25,Serbian Empire,,Serbian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1346,1371
+165,1350,1549,199,Jolof Empire,,Jolof Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1350,1549
+166,1352,1576,224,Bengal Sultanate,,Bengal Sultanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1352,1576
+167,1356,1648,292,Hanseatic League,,Hanseatic League,,10,,,,,,,,,,,,,,,,,,,,,,H,1356,1648
+168,1364,1477,113,Burgundian State,,Burgundian State,,10,,,,,,,,,,,,,,,,,,,,,,H,1364,1477
+169,1368,1888,520,Bruneian Empire,,Bruneian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1368,1888
+170,1368,1644,276,Ming dynasty,,Ming dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1368,1644
+171,1368,1635,267,Northern Yuan dynasty,,Northern Yuan dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1368,1635
+172,1370,1526,156,Timurid Empire,,Timurid Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1370,1526
+173,1378,1468,90,Qara Qoyunlu,,Qara Qoyunlu,,10,,,,,,,,,,,,,,,,,,,,,,H,1378,1468
+174,1378,1503,125,Aq Qoyunlu,,Aq Qoyunlu,,10,,,,,,,,,,,,,,,,,,,,,,H,1378,1503
+175,1387,1893,506,Bornu Empire,,Bornu Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1387,1893
+176,1392,1897,505,Joseon,,Joseon,,10,,,,,,,,,,,,,,,,,,,,,,H,1392,1897
+177,1397,1523,126,Kalmar Union,,Kalmar Union,,10,,,,,,,,,,,,,,,,,,,,,,H,1397,1523
+178,1399,1950,551,Wadiyar dynasty (Kingdom of Mysore),,Wadiyar dynasty (Kingdom of Mysore),,10,,,,,,,,,,,,,,,,,,,,,,H,1399,1950
+179,1400,1905,505,Oyo Empire,,Oyo Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1400,1905
+180,1400,1511,111,Malacca Empire,,Malacca Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1400,1511
+181,1405,1915,510,Sultanate of Sulu,,Sultanate of Sulu,,10,,,,,,,,,,,,,,,,,,,,,,H,1405,1915
+182,1415,1999,584,Portuguese Empire,,Portuguese Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1415,1999
+183,1416,1713,297,Duchy of Savoy,,Duchy of Savoy,,10,,,,,,,,,,,,,,,,,,,,,,H,1416,1713
+184,1428,1521,93,Aztec Empire,,Aztec Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1428,1521
+185,1428,1471,43,Uzbek Khanate,,Uzbek Khanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1428,1471
+186,1428,1789,361,Later L  dynasty,,Later L  dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1428,1789
+187,1438,1533,95,Inca Empire (Tawantinsuyo),,Inca Empire (Tawantinsuyo),,10,,,,,,,,,,,,,,,,,,,,,,H,1438,1533
+188,1440,1897,457,Benin Empire,,Benin Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1440,1897
+189,1441,1783,342,Crimean Khanate,,Crimean Khanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1441,1783
+190,1451,1526,75,Lodi Sultanate,,Lodi Sultanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1451,1526
+191,1465,1847,382,Kazakh Khanate,,Kazakh Khanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1465,1847
+192,1472,1554,82,Wattasids,,Wattasids,,10,,,,,,,,,,,,,,,,,,,,,,H,1472,1554
+193,1475,1568,93,Demak Sultanate,,Demak Sultanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1475,1568
+194,1479,1975,496,Spanish Empire,,Spanish Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1479,1975
+195,1480,1721,241,Tsardom of Russia,,Tsardom of Russia,,6,,,,,,,,,,,,,,,,,,,,,,M,1480,1721
+196,1496,1903,407,Aceh Sultanate,,Aceh Sultanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1496,1903
+197,1501,1736,235,Safavid dynasty,,Safavid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1501,1736
+198,1505,1867,362,Akwamu,,Akwamu,,10,,,,,,,,,,,,,,,,,,,,,,H,1505,1867
+199,1506,1785,279,Bukhara Empire,,Bukhara Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1506,1785
+200,1510,1752,242,Toungoo dynasty,,Toungoo dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1510,1752
+201,1514,1776,262,Empire of Great Fulo,,Empire of Great Fulo,,10,,,,,,,,,,,,,,,,,,,,,,H,1514,1776
+202,1520,1905,385,Sultanate of Banjar,,Sultanate of Banjar,,10,,,,,,,,,,,,,,,,,,,,,,H,1520,1905
+203,1526,1813,287,Banten Sultanate,,Banten Sultanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1526,1813
+204,1526,1758,232,Mughal Empire,,Mughal Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1526,1758
+205,1528,1855,327,Johor Empire,,Johor Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1528,1855
+206,1529,1736,207,Madurai Nayak dynasty,,Madurai Nayak dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1529,1736
+207,1532,1673,141,Thanjavur Nayak dynasty,,Thanjavur Nayak dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1532,1673
+208,1534,1980,446,French colonial empire,,French colonial empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1534,1980
+209,1536,1953,417,Danish colonial empire,,Danish colonial empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1536,1953
+210,1537,1867,330,Kaabu Empire,,Kaabu Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1537,1867
+211,1538,1556,18,Sur Empire,,Sur Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1538,1556
+212,1554,1659,105,Saadi dynasty,,Saadi dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1554,1659
+213,1568,1975,407,Dutch Empire,,Dutch Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1568,1975
+214,1569,1795,226,Polish Lithuanian Commonwealth,,Polish Lithuanian Commonwealth,,10,,,,,,,,,,,,,,,,,,,,,,H,1569,1795
+215,1587,1755,168,Mataram Sultanate,,Mataram Sultanate,,10,,,,,,,,,,,,,,,,,,,,,,H,1587,1755
+216,1590,1979,389,Ramnad Sethupathis,,Ramnad Sethupathis,,10,,,,,,,,,,,,,,,,,,,,,,H,1590,1979
+217,1600,1850,250,Gorkha Empire,,Gorkha Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1600,1850
+218,1603,1997,394,British Empire,,British Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1603,1997
+219,1611,1721,110,Swedish Empire,,Swedish Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1611,1721
+220,1631,2022 (current),390,Alaouite dynasty,,Alaouite dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1631,2022 (current)
+221,1644,1912,268,Qing dynasty,,Qing dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1644,1912
+222,1649,1660,11,Commonwealth of England,,Commonwealth of England,,10,,,,,,,,,,,,,,,,,,,,,,H,1649,1660
+223,1660,1866,206,Rozwi Empire,,Rozwi Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1660,1866
+224,1670,1896,226,Ashanti Empire,,Ashanti Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1670,1896
+225,1674,1818,144,Maratha Empire,,Maratha Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1674,1818
+226,1698,1856,158,Omani Empire,,Omani Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1698,1856
+227,1700,1877,177,Lakota people,,Lakota people,,10,,,,,,,,,,,,,,,,,,,,,,H,1700,1877
+228,1701,1871,170,Kingdom of Prussia,,Kingdom of Prussia,,10,,,,,,,,,,,,,,,,,,,,,,H,1701,1871
+229,1705,1957,252,Husainid dynasty,,Husainid dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1705,1957
+230,1709,1738,29,Hotak dynasty,,Hotak dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1709,1738
+231,1710,1898,188,Kong Empire,,Kong Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1710,1898
+232,1712,1861,149,Bamana Empire,,Bamana Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1712,1861
+233,1721,1917,196,Russian Empire (Romanov),,Russian Empire (Romanov),,8,,,,,,,,,,,,,,,,,,,,,,H,1721,1917
+234,1722,1945,223,Sultanate of Siak Sri Indrapura,,Sultanate of Siak Sri Indrapura,,10,,,,,,,,,,,,,,,,,,,,,,H,1722,1945
+235,1733,1849,116,Sikh Empire,,Sikh Empire,,9,,,,,,,,,,,,,,,,,,,,,,H,1733,1849
+236,1736,1796,60,Afsharid Dynasty,,Afsharid Dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1736,1796
+237,1747,1823,76,Durrani Empire,,Durrani Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1747,1823
+238,1750,1794,44,Zand dynasty,,Zand dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1750,1794
+239,1750,1850,100,Comanche Empire,,Comanche Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1750,1850
+240,1752,1885,133,Konbaung dynasty,,Konbaung dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1752,1885
+241,1778,1802,24,Tay Son dynasty,,T y S?n dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1778,1802
+242,1782,1932,150,Siam Empire,,Siam Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1782,1932
+243,1794,1925,131,Qajar dynasty[citation needed],,Qajar dynasty[citation needed],,10,,,,,,,,,,,,,,,,,,,,,,H,1794,1925
+244,1802,1945,143,Nguy?n dynasty,,Nguy?n dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1802,1945
+245,1804,1867,63,Austrian Empire,,Austrian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1804,1867
+246,1804,1815,11,First French Empire,,First French Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1804,1815
+247,1804,1903,99,Sokoto Caliphate,,Sokoto Caliphate,,10,,,,,,,,,,,,,,,,,,,,,,H,1804,1903
+248,1815,1853,,Period of relative peace in Europe - post Napoleonic War and before Crimean War,,,,4,,,,,,,,,,,,,,,,,,,,,,E,1815,1853
+249,1818,1897,79,Zulu Empire,,Zulu Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1818,1897
+250,1820,1862,42,Massina Empire,,Massina Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1820,1862
+251,1821,1823,2,First Mexican Empire,,First Mexican Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1821,1823
+252,1822,1889,67,Empire of Brazil,,Empire of Brazil,,10,,,,,,,,,,,,,,,,,,,,,,H,1822,1889
+253,1824,1895,71,Gaza Empire,,Gaza Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1824,1895
+254,1848,1893,45,Toucouleur Empire,,Toucouleur Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1848,1893
+255,1852,1870,18,Second French Empire,,Second French Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1852,1870
+256,1858,1947,89,British Raj,,British Raj,,10,,,,,,,,,,,,,,,,,,,,,,H,1858,1947
+257,1864,1867,3,Second Mexican Empire,,Second Mexican Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1864,1867
+258,1867,1918,51,Austria-Hungary,,Austria-Hungary,,6,,,,,,,,,,,,,,,,,,,,,,M,1867,1918
+259,1868,1947,79,Empire of Japan,,Empire of Japan,,10,,,,,,,,,,,,,,,,,,,,,,H,1868,1947
+260,1871,1918,47,German Empire,,German Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1871,1918
+261,1878,1895,17,Wassoulou Empire,,Wassoulou Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1878,1895
+262,1882,1947,65,Italian Empire,,Italian Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1882,1947
+263,1885,1908,23,Congo Free State,,Congo Free State,,10,,,,,,,,,,,,,,,,,,,,,,H,1885,1908
+264,1897,1910,13,Korean Empire,,Korean Empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1897,1910
+265,1901,1962,61,Belgian colonial empire,,Belgian colonial empire,,10,,,,,,,,,,,,,,,,,,,,,,H,1901,1962
+266,1917,1991,74,Soviet Union / Soviet Empire,,Soviet Union / Soviet Empire,,3,,,,,,,,,,,,,,,,,,,,,,E,1917,1991
+267,1925,1979,54,Pahlavi dynasty,,Pahlavi dynasty,,10,,,,,,,,,,,,,,,,,,,,,,H,1925,1979
+268,1932,1945,13,Manchukuo,,Manchukuo,,10,,,,,,,,,,,,,,,,,,,,,,H,1932,1945
+269,1933,1945,12,Nazi Germany,,Nazi Germany,,10,,,,,,,,,,,,,,,,,,,,,,H,1933,1945

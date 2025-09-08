@@ -1,0 +1,51 @@
+eventID,time_start,time_end,Duration,event,details,wikipedia,mnemonic,itemDifficulty,categories,America,Europe,Asia,Africa,China,Discovery,Britain,France,Greek,India,Invention,MiddleEast,prehistory,Religion,Roman,Royalty,Russia,Science,Wars,World,diffCat,NumYearStart,NumYearEnd
+0,4500 BC,1900 BC,2600,Sumer,,Sumer,,10,,,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,H,-4500,-1900
+1,3000 BC,858 BC,,Egyptian Empire,Defeated by Assyrian invasion and succeeded by them.,,,6,,,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,M,-3000,-858
+2,2500 BC,911 BC,1589,Assyria,"Generally considered to be from around 2025 BCE to 609 BCE.",Assyria,,10,,,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,H,-2500,-911
+3,2334 BC,2154 BC,180,Akkadian Empire,,Akkadian Empire,,10,,,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,H,-2334,-2154
+4,1900 BC,1600 BC,300,Babylonian Empire,,Babylonian Empire,,9,,,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,H,-1900,-1600
+5,1600 BC,1046 BC,554,Shang dynasty,,Shang dynasty,,9,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H,-1600,-1046
+6,1550 BC,1077 BC,473,Egyptian New Kingdom,,Egyptian Empire,,8,,,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,H,-1550,-1077
+7,1046 BC,256 BC,790,Zhou Dynasty,,Zhou dynasty,,9,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H,-1046,-256
+8,800 BC,146 BC,654,Greek City-States,"From rise of Archaic Greece to Roman conquest.",Greek history,,7,,,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,H,-800,-146
+9,509 BC,27 BC,482,Roman Republic,Ended with Augustus and Roman Empire.,Roman Republic,,6,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,M,-509,-27
+10,27 BC,476,503,Roman Empire,Western Roman Empire until fall of Rome.,Roman Empire,,4,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,E,-27,476
+11,206 BC,220,426,Han Dynasty,,Han dynasty,,6,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,M,-206,220
+12,330,1453,1123,Byzantine Empire,,Byzantine Empire,,5,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,M,330,1453
+13,618,907,289,Tang Dynasty,,Tang dynasty,,7,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,H,618,907
+14,1206,1368,162,Mongol Empire,Founded by Genghis Khan.,Mongol Empire,,5,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,M,1206,1368
+15,1337,1453,116,Hundred Years' War,Between England and France.,Hundred Years War,,4,,,,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,E,1337,1453
+16,1453,1815,362,Ottoman Empire,From fall of Constantinople to decline after Napoleonic wars.,Ottoman Empire,,5,,,,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,M,1453,1815
+17,1492,1898,406,Spanish Empire,From Columbus to loss of colonies.,Spanish Empire,,3,,,,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,E,1492,1898
+18,1500,1800,300,Portuguese Empire,Global maritime empire.,Portuguese Empire,,6,,,,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,M,1500,1800
+19,1526,1857,331,Mughal Empire,Ended with British Raj.,Mughal Empire,,5,,,,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,M,1526,1857
+20,1618,1648,30,Thirty Years' War,Religious wars in Europe.,Thirty Years War,,4,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,E,1618,1648
+21,1644,1912,268,Qing Dynasty,,Qing dynasty,,5,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,M,1644,1912
+22,1700,1721,21,Great Northern War,Sweden vs Russia.,Great Northern War,,6,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,H,1700,1721
+23,1775,1783,8,American Revolution,,American Revolution,,3,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,E,1775,1783
+24,1789,1799,10,French Revolution,,French Revolution,,3,,,,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,E,1789,1799
+25,1803,1815,12,Napoleonic Wars,,Napoleonic Wars,,3,,,,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,E,1803,1815
+26,1861,1865,4,American Civil War,,American Civil War,,2,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,E,1861,1865
+27,1914,1918,4,World War I,,World War I,,1,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,E,1914,1918
+28,1939,1945,6,World War II,,World War II,,1,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,E,1939,1945
+29,1947,1991,44,Cold War,Geopolitical tension USA vs USSR.,Cold War,,2,,,,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,M,1947,1991
+30,1950,1953,3,Korean War,,Korean War,,2,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,E,1950,1953
+31,1955,1975,20,Vietnam War,,Vietnam War,,2,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,E,1955,1975
+32,1990,1991,1,Gulf War,,Gulf War,,3,,,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,E,1990,1991
+33,1994,2005,11,Second Congo War,Deadliest conflict in Africa since WWII.,Second Congo War,,6,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,H,1994,2005
+34,732,1492,760,Middle Ages (Europe),,Middle Ages,,3,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,E,732,1492
+35,1347,1351,4,Black Death,Plague pandemic.,Black Death,,3,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,E,1347,1351
+36,622,750,128,Early Islamic Caliphate,From Hijra to Abbasid.,Islamic Caliphate,,7,,,,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,H,622,750
+37,750,1258,508,Abbasid Caliphate,,Abbasid Caliphate,,7,,,,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,H,750,1258
+38,800,1806,1006,Holy Roman Empire,,Holy Roman Empire,,6,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,M,800,1806
+39,1613,1917,304,Romanov Dynasty,Russian royalty.,Romanov Dynasty,,6,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,M,1613,1917
+40,1200 BC,400 BC,800,Olmec Civilization,Early Mesoamerican culture.,Olmec,,9,,,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,H,-1200,-400
+41,250,900,650,Maya Classic Period,,Maya civilization,,7,,,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,H,250,900
+42,900,1521,621,Aztec Civilization,,Aztec Empire,,6,,,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,M,900,1521
+43,1438,1533,95,Inca Empire,,Inca Empire,,6,,,,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,M,1438,1533
+44,500,1500,1000,Middle Ages India,From Gupta decline to Mughal rise.,Indian history,,8,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,H,500,1500
+45,3000 BC,1800 BC,1200,Indus Valley Civilization,,Indus Valley,,9,,,,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,H,-3000,-1800
+46,500,1500,1000,Feudal Japan,Samurai and shogunate period.,Feudal Japan,,7,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,H,500,1500
+47,1517,1648,131,Reformation and Wars of Religion,,Reformation,,6,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,M,1517,1648
+48,1804,1830,26,Haitian Independence & Aftermath,,Haiti Revolution,,7,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,H,1804,1830
+49,1917,1923,6,Russian Revolution & Civil War,,Russian Revolution,,4,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,M,1917,1923

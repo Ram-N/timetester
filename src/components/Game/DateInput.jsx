@@ -1,20 +1,18 @@
-import { isValidYear, yearToDateString } from '../../utils/dateHelpers';
+import { isValidYear } from '../../utils/dateHelpers';
 
 const DateInput = ({ userGuess, setUserGuess, onSubmit }) => {
   const handleStartYearChange = (e) => {
-    const year = e.target.value;
+    const year = parseInt(e.target.value) || null;
     setUserGuess(prev => ({ 
       ...prev, 
-      startDate: year ? yearToDateString(year) : '',
       startYear: year
     }));
   };
 
   const handleEndYearChange = (e) => {
-    const year = e.target.value;
+    const year = parseInt(e.target.value) || null;
     setUserGuess(prev => ({ 
       ...prev, 
-      endDate: year ? yearToDateString(year) : '',
       endYear: year
     }));
   };
@@ -44,9 +42,9 @@ const DateInput = ({ userGuess, setUserGuess, onSubmit }) => {
             value={userGuess.startYear || ''}
             onChange={handleStartYearChange}
             className="w-full p-3 text-base border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent appearance-none"
-            min="1"
+            min="-10000"
             max="2024"
-            placeholder="e.g., 1914"
+            placeholder="e.g., 1914 or -4500 for 4500 BCE"
             required
           />
         </div>
@@ -61,9 +59,9 @@ const DateInput = ({ userGuess, setUserGuess, onSubmit }) => {
             value={userGuess.endYear || ''}
             onChange={handleEndYearChange}
             className="w-full p-3 text-base border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent appearance-none"
-            min="1"
+            min="-10000"
             max="2024"
-            placeholder="e.g., 1918"
+            placeholder="e.g., 1918 or -1900 for 1900 BCE"
             required
           />
         </div>
@@ -83,6 +81,7 @@ const DateInput = ({ userGuess, setUserGuess, onSubmit }) => {
       
       <div className="mt-4 text-sm text-gray-500 text-center">
         <p>💡 Tip: Consider both the start and end years carefully.</p>
+        <p>Use negative numbers for BCE years (e.g., -500 for 500 BCE)</p>
         <p>Your score depends on how close your guess is to the actual timeline!</p>
       </div>
     </form>

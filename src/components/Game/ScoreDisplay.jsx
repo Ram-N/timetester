@@ -1,4 +1,4 @@
-import { formatDate } from '../../utils/dateHelpers';
+import { formatYear } from '../../utils/dateHelpers';
 import { getAccuracyLevel, getAccuracyColor } from '../../utils/scoring';
 import TimelineVisualization from '../Timeline/TimelineVisualization';
 
@@ -29,7 +29,7 @@ const ScoreDisplay = ({ result, onNext, isLastEvent }) => {
             <div>
               <div className="font-medium text-gray-700 mb-1">Your Guess:</div>
               <div className="text-gray-600">
-                {formatDate(new Date(guess.startDate))} - {formatDate(new Date(guess.endDate))}
+                {formatYear(guess.startYear)} - {formatYear(guess.endYear)}
               </div>
               <div className="text-gray-500">
                 Duration: ~{Math.round(guessedDuration)} years
@@ -39,7 +39,7 @@ const ScoreDisplay = ({ result, onNext, isLastEvent }) => {
             <div>
               <div className="font-medium text-gray-700 mb-1">Actual:</div>
               <div className="text-gray-600">
-                {formatDate(new Date(event.startDate))} - {formatDate(new Date(event.endDate))}
+                {formatYear(event.startYear)} - {formatYear(event.endYear)}
               </div>
               <div className="text-gray-500">
                 Duration: ~{Math.round(actualDuration)} years

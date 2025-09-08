@@ -1,26 +1,27 @@
-import { formatDate } from '../../utils/dateHelpers';
+import { formatYear } from '../../utils/dateHelpers';
 import { getAccuracyLevel, getAccuracyColor } from '../../utils/scoring';
 
 const TimelineVisualization = ({ actual, guess, result }) => {
-  const actualStart = new Date(actual.startDate);
-  const actualEnd = new Date(actual.endDate);
-  const guessStart = new Date(guess.startDate);
-  const guessEnd = new Date(guess.endDate);
+  // Use year-only data directly
+  const actualStart = actual.startYear;
+  const actualEnd = actual.endYear;
+  const guessStart = guess.startYear;
+  const guessEnd = guess.endYear;
 
   // Calculate the overall timeline range for visualization
-  const allDates = [actualStart, actualEnd, guessStart, guessEnd];
-  const minDate = new Date(Math.min(...allDates));
-  const maxDate = new Date(Math.max(...allDates));
+  const allYears = [actualStart, actualEnd, guessStart, guessEnd];
+  const minYear = Math.min(...allYears);
+  const maxYear = Math.max(...allYears);
   
   // Add padding to the timeline (10% on each side)
-  const timeRange = maxDate - minDate;
-  const paddedMin = new Date(minDate.getTime() - timeRange * 0.1);
-  const paddedMax = new Date(maxDate.getTime() + timeRange * 0.1);
+  const yearRange = maxYear - minYear;
+  const paddedMin = minYear - yearRange * 0.1;
+  const paddedMax = maxYear + yearRange * 0.1;
   const paddedRange = paddedMax - paddedMin;
 
   // Calculate positions as percentages
-  const getPosition = (date) => {
-    return ((date - paddedMin) / paddedRange) * 100;
+  const getPosition = (year) => {
+    return ((year - paddedMin) / paddedRange) * 100;
   };
 
   const actualStartPos = getPosition(actualStart);
@@ -44,7 +45,7 @@ const TimelineVisualization = ({ actual, guess, result }) => {
           <div className="flex items-center justify-between mb-3">
             <span className="text-sm font-medium text-gray-700">Actual Timeline</span>
             <span className="text-xs text-gray-500">
-              {formatDate(actualStart)} - {formatDate(actualEnd)}
+              {formatYear(actualStart)} - {formatYear(actualEnd)}
             </span>
           </div>
           <div className="relative h-8 bg-gray-100 rounded-full">
@@ -71,7 +72,7 @@ const TimelineVisualization = ({ actual, guess, result }) => {
           <div className="flex items-center justify-between mb-3">
             <span className="text-sm font-medium text-gray-700">Your Guess</span>
             <span className="text-xs text-gray-500">
-              {formatDate(guessStart)} - {formatDate(guessEnd)}
+              {formatYear(guessStart)} - {formatYear(guessEnd)}
             </span>
           </div>
           <div className="relative h-8 bg-gray-100 rounded-full">
@@ -100,13 +101,13 @@ const TimelineVisualization = ({ actual, guess, result }) => {
             className="absolute top-0 text-xs text-gray-500 transform -translate-x-1/2"
             style={{ left: `${getPosition(paddedMin)}%` }}
           >
-            {paddedMin.getFullYear()}
+            {formatYear(Math.round(paddedMin))}
           </div>
           <div
             className="absolute top-0 text-xs text-gray-500 transform -translate-x-1/2"
             style={{ left: `${getPosition(paddedMax)}%` }}
           >
-            {paddedMax.getFullYear()}
+            {formatYear(Math.round(paddedMax))}
           </div>
         </div>
       </div>

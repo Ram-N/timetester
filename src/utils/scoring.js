@@ -1,36 +1,32 @@
-import { getDateDifference, calculateDuration } from './dateHelpers.js';
-
+// Simplified scoring system - all events now use unified year format
 export const calculateScore = (actual, guess) => {
-  const startDiff = getDateDifference(actual.startDate, guess.startDate);
-  const endDiff = getDateDifference(actual.endDate, guess.endDate);
+  // All events now have startYear/endYear fields
+  const startDiff = Math.abs(actual.startYear - guess.startYear);
+  const endDiff = Math.abs(actual.endYear - guess.endYear);
   
   // Calculate actual and guessed durations
-  const actualDuration = calculateDuration(actual.startDate, actual.endDate);
-  const guessDuration = calculateDuration(guess.startDate, guess.endDate);
-  
-  // Duration accuracy (how close the guessed duration is to actual)
-  const durationDiff = Math.abs(actualDuration.years - guessDuration.years);
+  const actualDuration = Math.abs(actual.endYear - actual.startYear);
+  const guessDuration = Math.abs(guess.endYear - guess.startYear);
+  const durationDiff = Math.abs(actualDuration - guessDuration);
   
   // Scoring formula (lower is better)
-  // Base penalty for date errors (years off)
-  const startPenalty = Math.pow(startDiff.years, 1.2);
-  const endPenalty = Math.pow(endDiff.years, 1.2);
+  const startPenalty = Math.pow(startDiff, 1.2);
+  const endPenalty = Math.pow(endDiff, 1.2);
   const durationPenalty = Math.pow(durationDiff, 1.1);
   
   // Total penalty (higher = worse)
   const totalPenalty = startPenalty + endPenalty + (durationPenalty * 0.5);
   
   // Convert to score (100 = perfect, lower = worse)
-  // Use exponential decay for scoring
   const score = Math.max(0, Math.round(100 * Math.exp(-totalPenalty / 10)));
   
   return {
     score,
-    startDiff: Math.round(startDiff.years * 10) / 10,
-    endDiff: Math.round(endDiff.years * 10) / 10,
+    startDiff: Math.round(startDiff * 10) / 10,
+    endDiff: Math.round(endDiff * 10) / 10,
     durationDiff: Math.round(durationDiff * 10) / 10,
-    actualDuration: actualDuration.years,
-    guessedDuration: guessDuration.years
+    actualDuration,
+    guessedDuration: guessDuration
   };
 };
 

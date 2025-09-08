@@ -5,135 +5,1419 @@
       "name": "World War I",
       "startDate": "1914-07-28",
       "endDate": "1918-11-11",
+      "startYear": 1914,
+      "endYear": 1918,
       "category": "War",
       "difficulty": "easy",
-      "description": "The Great War that involved most of the world's powers"
+      "difficultyLevel": 2,
+      "regions": [
+        "Europe",
+        "America"
+      ],
+      "themes": [
+        "Wars",
+        "World"
+      ],
+      "description": "The Great War that involved most of the world's powers",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 4
     },
     {
       "id": 2,
       "name": "Roman Empire",
       "startDate": "0027-01-16",
       "endDate": "1453-05-29",
+      "startYear": 27,
+      "endYear": 1453,
       "category": "Empire",
       "difficulty": "hard",
-      "description": "One of the largest and longest-lasting empires in history"
+      "difficultyLevel": 8,
+      "regions": [
+        "Europe",
+        "Africa",
+        "Asia"
+      ],
+      "themes": [
+        "Royalty",
+        "World"
+      ],
+      "description": "One of the largest and longest-lasting empires in history",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 1426
     },
     {
       "id": 3,
       "name": "World War II",
       "startDate": "1939-09-01",
       "endDate": "1945-09-02",
+      "startYear": 1939,
+      "endYear": 1945,
       "category": "War",
       "difficulty": "easy",
-      "description": "The deadliest conflict in human history"
+      "difficultyLevel": 2,
+      "regions": [
+        "Europe",
+        "America"
+      ],
+      "themes": [
+        "Wars",
+        "World"
+      ],
+      "description": "The deadliest conflict in human history",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 6
     },
     {
       "id": 4,
       "name": "American Civil War",
       "startDate": "1861-04-12",
       "endDate": "1865-05-26",
+      "startYear": 1861,
+      "endYear": 1865,
       "category": "War",
       "difficulty": "medium",
-      "description": "A civil war fought in the United States"
+      "difficultyLevel": 5,
+      "regions": [
+        "Europe",
+        "America"
+      ],
+      "themes": [
+        "Wars",
+        "World"
+      ],
+      "description": "A civil war fought in the United States",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 4
     },
     {
       "id": 5,
       "name": "Cold War",
       "startDate": "1947-03-12",
       "endDate": "1991-12-26",
+      "startYear": 1947,
+      "endYear": 1991,
       "category": "Political",
       "difficulty": "medium",
-      "description": "Period of geopolitical tension between the United States and Soviet Union"
+      "difficultyLevel": 5,
+      "regions": [
+        "America",
+        "Europe",
+        "Russia"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Period of geopolitical tension between the United States and Soviet Union",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 44
     },
     {
       "id": 6,
       "name": "Renaissance",
       "startDate": "1300-01-01",
       "endDate": "1600-12-31",
+      "startYear": 1300,
+      "endYear": 1600,
       "category": "Cultural",
       "difficulty": "hard",
-      "description": "Period of cultural, artistic, and intellectual rebirth in Europe"
+      "difficultyLevel": 8,
+      "regions": [
+        "Europe"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Period of cultural, artistic, and intellectual rebirth in Europe",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 300
     },
     {
       "id": 7,
       "name": "Great Depression",
       "startDate": "1929-10-29",
       "endDate": "1939-09-01",
+      "startYear": 1929,
+      "endYear": 1939,
       "category": "Economic",
       "difficulty": "medium",
-      "description": "Severe worldwide economic depression"
+      "difficultyLevel": 5,
+      "regions": [
+        "America",
+        "Europe"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Severe worldwide economic depression",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 10
     },
     {
       "id": 8,
       "name": "French Revolution",
       "startDate": "1789-05-05",
       "endDate": "1799-11-09",
+      "startYear": 1789,
+      "endYear": 1799,
       "category": "Political",
       "difficulty": "medium",
-      "description": "Period of radical political and social transformation in France"
+      "difficultyLevel": 5,
+      "regions": [
+        "America",
+        "Europe",
+        "Russia"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Period of radical political and social transformation in France",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 10
     },
     {
       "id": 9,
       "name": "Industrial Revolution",
       "startDate": "1760-01-01",
       "endDate": "1840-12-31",
+      "startYear": 1760,
+      "endYear": 1840,
       "category": "Technological",
       "difficulty": "hard",
-      "description": "Transition to new manufacturing processes"
+      "difficultyLevel": 8,
+      "regions": [
+        "America",
+        "Europe"
+      ],
+      "themes": [
+        "Science",
+        "Invention",
+        "World"
+      ],
+      "description": "Transition to new manufacturing processes",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 80
     },
     {
       "id": 10,
       "name": "Age of Exploration",
       "startDate": "1400-01-01",
       "endDate": "1600-12-31",
+      "startYear": 1400,
+      "endYear": 1600,
       "category": "Exploration",
       "difficulty": "hard",
-      "description": "Period of extensive overseas exploration and colonization"
+      "difficultyLevel": 8,
+      "regions": [
+        "Europe",
+        "America"
+      ],
+      "themes": [
+        "Discovery",
+        "World"
+      ],
+      "description": "Period of extensive overseas exploration and colonization",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 200
     },
     {
       "id": 11,
       "name": "Napoleonic Wars",
       "startDate": "1803-05-18",
       "endDate": "1815-11-20",
+      "startYear": 1803,
+      "endYear": 1815,
       "category": "War",
       "difficulty": "medium",
-      "description": "Series of conflicts involving Napoleon's French Empire"
+      "difficultyLevel": 5,
+      "regions": [
+        "Europe",
+        "America"
+      ],
+      "themes": [
+        "Wars",
+        "World"
+      ],
+      "description": "Series of conflicts involving Napoleon's French Empire",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 12
     },
     {
       "id": 12,
       "name": "Black Death",
       "startDate": "1347-01-01",
       "endDate": "1353-12-31",
+      "startYear": 1347,
+      "endYear": 1353,
       "category": "Pandemic",
       "difficulty": "medium",
-      "description": "Devastating bubonic plague pandemic in Europe"
+      "difficultyLevel": 5,
+      "regions": [
+        "Europe",
+        "Africa",
+        "Asia"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Devastating bubonic plague pandemic in Europe",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 6
     },
     {
       "id": 13,
       "name": "Viking Age",
       "startDate": "0793-01-01",
       "endDate": "1066-10-14",
+      "startYear": 793,
+      "endYear": 1066,
       "category": "Cultural",
       "difficulty": "hard",
-      "description": "Period of Scandinavian expansion and exploration"
+      "difficultyLevel": 8,
+      "regions": [
+        "Europe"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Period of Scandinavian expansion and exploration",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 273
     },
     {
       "id": 14,
       "name": "Space Race",
       "startDate": "1955-01-01",
       "endDate": "1975-07-17",
+      "startYear": 1955,
+      "endYear": 1975,
       "category": "Technological",
       "difficulty": "easy",
-      "description": "20th-century competition between USSR and US to achieve spaceflight capability"
+      "difficultyLevel": 2,
+      "regions": [
+        "America",
+        "Europe"
+      ],
+      "themes": [
+        "Science",
+        "Invention",
+        "World"
+      ],
+      "description": "20th-century competition between USSR and US to achieve spaceflight capability",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 20
     },
     {
       "id": 15,
       "name": "Ming Dynasty",
       "startDate": "1368-01-23",
       "endDate": "1644-04-25",
+      "startYear": 1368,
+      "endYear": 1644,
       "category": "Empire",
       "difficulty": "hard",
-      "description": "Imperial dynasty of China"
+      "difficultyLevel": 8,
+      "regions": [
+        "Europe",
+        "Africa",
+        "Asia"
+      ],
+      "themes": [
+        "Royalty",
+        "World"
+      ],
+      "description": "Imperial dynasty of China",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 276
+    },
+    {
+      "id": 16,
+      "name": "Sumer",
+      "startDate": "4500-01-01 BC",
+      "endDate": "1900-01-01 BC",
+      "startYear": -4500,
+      "endYear": -1900,
+      "category": "Religion",
+      "difficulty": "hard",
+      "difficultyLevel": 10,
+      "regions": [
+        "China"
+      ],
+      "themes": [
+        "Religion"
+      ],
+      "description": "Historical event: Sumer",
+      "wikipediaLink": "Sumer",
+      "mnemonic": null,
+      "duration": 2600
+    },
+    {
+      "id": 17,
+      "name": "Egyptian Empire",
+      "startDate": "3000-01-01 BC",
+      "endDate": "0858-01-01 BC",
+      "startYear": -3000,
+      "endYear": -858,
+      "category": "Religion",
+      "difficulty": "medium",
+      "difficultyLevel": 6,
+      "regions": [],
+      "themes": [
+        "Religion",
+        "Discovery"
+      ],
+      "description": "Defeated by Assyrian invasion and succeeded by them.",
+      "wikipediaLink": null,
+      "mnemonic": null,
+      "duration": 2142
+    },
+    {
+      "id": 18,
+      "name": "Assyria",
+      "startDate": "2500-01-01 BC",
+      "endDate": "0911-01-01 BC",
+      "startYear": -2500,
+      "endYear": -911,
+      "category": "Religion",
+      "difficulty": "hard",
+      "difficultyLevel": 10,
+      "regions": [
+        "China"
+      ],
+      "themes": [
+        "Religion"
+      ],
+      "description": "\"Generally considered to be from around 2025 BCE to 609 BCE.\"",
+      "wikipediaLink": "Assyria",
+      "mnemonic": null,
+      "duration": 1589
+    },
+    {
+      "id": 19,
+      "name": "Akkadian Empire",
+      "startDate": "2334-01-01 BC",
+      "endDate": "2154-01-01 BC",
+      "startYear": -2334,
+      "endYear": -2154,
+      "category": "Religion",
+      "difficulty": "hard",
+      "difficultyLevel": 10,
+      "regions": [
+        "China"
+      ],
+      "themes": [
+        "Religion"
+      ],
+      "description": "Historical event: Akkadian Empire",
+      "wikipediaLink": "Akkadian Empire",
+      "mnemonic": null,
+      "duration": 180
+    },
+    {
+      "id": 20,
+      "name": "Babylonian Empire",
+      "startDate": "1900-01-01 BC",
+      "endDate": "1600-01-01 BC",
+      "startYear": -1900,
+      "endYear": -1600,
+      "category": "Religion",
+      "difficulty": "hard",
+      "difficultyLevel": 9,
+      "regions": [
+        "China"
+      ],
+      "themes": [
+        "Religion"
+      ],
+      "description": "Historical event: Babylonian Empire",
+      "wikipediaLink": "Babylonian Empire",
+      "mnemonic": null,
+      "duration": 300
+    },
+    {
+      "id": 21,
+      "name": "Shang dynasty",
+      "startDate": "1600-01-01 BC",
+      "endDate": "1046-01-01 BC",
+      "startYear": -1600,
+      "endYear": -1046,
+      "category": "Historical",
+      "difficulty": "hard",
+      "difficultyLevel": 9,
+      "regions": [
+        "Britain"
+      ],
+      "themes": [],
+      "description": "Historical event: Shang dynasty",
+      "wikipediaLink": "Shang dynasty",
+      "mnemonic": null,
+      "duration": 554
+    },
+    {
+      "id": 22,
+      "name": "Egyptian New Kingdom",
+      "startDate": "1550-01-01 BC",
+      "endDate": "1077-01-01 BC",
+      "startYear": -1550,
+      "endYear": -1077,
+      "category": "Religion",
+      "difficulty": "hard",
+      "difficultyLevel": 8,
+      "regions": [],
+      "themes": [
+        "Religion",
+        "Discovery"
+      ],
+      "description": "Historical event: Egyptian New Kingdom",
+      "wikipediaLink": "Egyptian Empire",
+      "mnemonic": null,
+      "duration": 473
+    },
+    {
+      "id": 23,
+      "name": "Zhou Dynasty",
+      "startDate": "1046-01-01 BC",
+      "endDate": "0256-01-01 BC",
+      "startYear": -1046,
+      "endYear": -256,
+      "category": "Historical",
+      "difficulty": "hard",
+      "difficultyLevel": 9,
+      "regions": [
+        "Britain"
+      ],
+      "themes": [],
+      "description": "Historical event: Zhou Dynasty",
+      "wikipediaLink": "Zhou dynasty",
+      "mnemonic": null,
+      "duration": 790
+    },
+    {
+      "id": 24,
+      "name": "Greek City-States",
+      "startDate": "0800-01-01 BC",
+      "endDate": "0146-01-01 BC",
+      "startYear": -800,
+      "endYear": -146,
+      "category": "Invention",
+      "difficulty": "medium",
+      "difficultyLevel": 7,
+      "regions": [
+        "Africa"
+      ],
+      "themes": [
+        "Invention",
+        "World"
+      ],
+      "description": "\"From rise of Archaic Greece to Roman conquest.\"",
+      "wikipediaLink": "Greek history",
+      "mnemonic": null,
+      "duration": 654
+    },
+    {
+      "id": 25,
+      "name": "Roman Republic",
+      "startDate": "0509-01-01 BC",
+      "endDate": "0027-01-01 BC",
+      "startYear": -509,
+      "endYear": -27,
+      "category": "Historical",
+      "difficulty": "medium",
+      "difficultyLevel": 6,
+      "regions": [
+        "Africa",
+        "Russia"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Ended with Augustus and Roman Empire.",
+      "wikipediaLink": "Roman Republic",
+      "mnemonic": null,
+      "duration": 482
+    },
+    {
+      "id": 26,
+      "name": "Roman Empire",
+      "startDate": "0027-01-01 BC",
+      "endDate": "0476-01-01",
+      "startYear": -27,
+      "endYear": 476,
+      "category": "Science",
+      "difficulty": "medium",
+      "difficultyLevel": 4,
+      "regions": [
+        "Africa",
+        "Russia"
+      ],
+      "themes": [
+        "Science",
+        "World"
+      ],
+      "description": "Western Roman Empire until fall of Rome.",
+      "wikipediaLink": "Roman Empire",
+      "mnemonic": null,
+      "duration": 503
+    },
+    {
+      "id": 27,
+      "name": "Han Dynasty",
+      "startDate": "0206-01-01 BC",
+      "endDate": "0220-01-01",
+      "startYear": -206,
+      "endYear": 220,
+      "category": "Historical",
+      "difficulty": "medium",
+      "difficultyLevel": 6,
+      "regions": [
+        "Britain"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Historical event: Han Dynasty",
+      "wikipediaLink": "Han dynasty",
+      "mnemonic": null,
+      "duration": 426
+    },
+    {
+      "id": 28,
+      "name": "Byzantine Empire",
+      "startDate": "0330-01-01",
+      "endDate": "1453-01-01",
+      "startYear": 330,
+      "endYear": 1453,
+      "category": "Science",
+      "difficulty": "medium",
+      "difficultyLevel": 5,
+      "regions": [
+        "Africa",
+        "Russia"
+      ],
+      "themes": [
+        "Science"
+      ],
+      "description": "Historical event: Byzantine Empire",
+      "wikipediaLink": "Byzantine Empire",
+      "mnemonic": null,
+      "duration": 1123
+    },
+    {
+      "id": 29,
+      "name": "Tang Dynasty",
+      "startDate": "0618-01-01",
+      "endDate": "0907-01-01",
+      "startYear": 618,
+      "endYear": 907,
+      "category": "Historical",
+      "difficulty": "medium",
+      "difficultyLevel": 7,
+      "regions": [
+        "Britain"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Historical event: Tang Dynasty",
+      "wikipediaLink": "Tang dynasty",
+      "mnemonic": null,
+      "duration": 289
+    },
+    {
+      "id": 30,
+      "name": "Mongol Empire",
+      "startDate": "1206-01-01",
+      "endDate": "1368-01-01",
+      "startYear": 1206,
+      "endYear": 1368,
+      "category": "Historical",
+      "difficulty": "medium",
+      "difficultyLevel": 5,
+      "regions": [
+        "China"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Founded by Genghis Khan.",
+      "wikipediaLink": "Mongol Empire",
+      "mnemonic": null,
+      "duration": 162
+    },
+    {
+      "id": 31,
+      "name": "Hundred Years' War",
+      "startDate": "1337-01-01",
+      "endDate": "1453-01-01",
+      "startYear": 1337,
+      "endYear": 1453,
+      "category": "Historical",
+      "difficulty": "medium",
+      "difficultyLevel": 4,
+      "regions": [
+        "Africa",
+        "Greek",
+        "India"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Between England and France.",
+      "wikipediaLink": "Hundred Years War",
+      "mnemonic": null,
+      "duration": 116
+    },
+    {
+      "id": 32,
+      "name": "Ottoman Empire",
+      "startDate": "1453-01-01",
+      "endDate": "1815-01-01",
+      "startYear": 1453,
+      "endYear": 1815,
+      "category": "Religion",
+      "difficulty": "medium",
+      "difficultyLevel": 5,
+      "regions": [
+        "Africa",
+        "China"
+      ],
+      "themes": [
+        "Religion",
+        "Discovery",
+        "World"
+      ],
+      "description": "From fall of Constantinople to decline after Napoleonic wars.",
+      "wikipediaLink": "Ottoman Empire",
+      "mnemonic": null,
+      "duration": 362
+    },
+    {
+      "id": 33,
+      "name": "Spanish Empire",
+      "startDate": "1492-01-01",
+      "endDate": "1898-01-01",
+      "startYear": 1492,
+      "endYear": 1898,
+      "category": "Discovery",
+      "difficulty": "easy",
+      "difficultyLevel": 3,
+      "regions": [
+        "Asia",
+        "Africa",
+        "India"
+      ],
+      "themes": [
+        "Discovery",
+        "World"
+      ],
+      "description": "From Columbus to loss of colonies.",
+      "wikipediaLink": "Spanish Empire",
+      "mnemonic": null,
+      "duration": 406
+    },
+    {
+      "id": 34,
+      "name": "Portuguese Empire",
+      "startDate": "1500-01-01",
+      "endDate": "1800-01-01",
+      "startYear": 1500,
+      "endYear": 1800,
+      "category": "Discovery",
+      "difficulty": "medium",
+      "difficultyLevel": 6,
+      "regions": [
+        "Asia",
+        "Africa",
+        "China",
+        "France"
+      ],
+      "themes": [
+        "Discovery",
+        "World"
+      ],
+      "description": "Global maritime empire.",
+      "wikipediaLink": "Portuguese Empire",
+      "mnemonic": null,
+      "duration": 300
+    },
+    {
+      "id": 35,
+      "name": "Mughal Empire",
+      "startDate": "1526-01-01",
+      "endDate": "1857-01-01",
+      "startYear": 1526,
+      "endYear": 1857,
+      "category": "Historical",
+      "difficulty": "medium",
+      "difficultyLevel": 5,
+      "regions": [
+        "China",
+        "MiddleEast"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Ended with British Raj.",
+      "wikipediaLink": "Mughal Empire",
+      "mnemonic": null,
+      "duration": 331
+    },
+    {
+      "id": 36,
+      "name": "Thirty Years' War",
+      "startDate": "1618-01-01",
+      "endDate": "1648-01-01",
+      "startYear": 1618,
+      "endYear": 1648,
+      "category": "Historical",
+      "difficulty": "medium",
+      "difficultyLevel": 4,
+      "regions": [
+        "Africa"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Religious wars in Europe.",
+      "wikipediaLink": "Thirty Years War",
+      "mnemonic": null,
+      "duration": 30
+    },
+    {
+      "id": 37,
+      "name": "Qing Dynasty",
+      "startDate": "1644-01-01",
+      "endDate": "1912-01-01",
+      "startYear": 1644,
+      "endYear": 1912,
+      "category": "Historical",
+      "difficulty": "medium",
+      "difficultyLevel": 5,
+      "regions": [
+        "Britain"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Historical event: Qing Dynasty",
+      "wikipediaLink": "Qing dynasty",
+      "mnemonic": null,
+      "duration": 268
+    },
+    {
+      "id": 38,
+      "name": "Great Northern War",
+      "startDate": "1700-01-01",
+      "endDate": "1721-01-01",
+      "startYear": 1700,
+      "endYear": 1721,
+      "category": "Wars",
+      "difficulty": "medium",
+      "difficultyLevel": 6,
+      "regions": [
+        "Africa"
+      ],
+      "themes": [
+        "Wars",
+        "World"
+      ],
+      "description": "Sweden vs Russia.",
+      "wikipediaLink": "Great Northern War",
+      "mnemonic": null,
+      "duration": 21
+    },
+    {
+      "id": 39,
+      "name": "American Revolution",
+      "startDate": "1775-01-01",
+      "endDate": "1783-01-01",
+      "startYear": 1775,
+      "endYear": 1783,
+      "category": "Historical",
+      "difficulty": "easy",
+      "difficultyLevel": 3,
+      "regions": [
+        "Asia"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Historical event: American Revolution",
+      "wikipediaLink": "American Revolution",
+      "mnemonic": null,
+      "duration": 8
+    },
+    {
+      "id": 40,
+      "name": "French Revolution",
+      "startDate": "1789-01-01",
+      "endDate": "1799-01-01",
+      "startYear": 1789,
+      "endYear": 1799,
+      "category": "Historical",
+      "difficulty": "easy",
+      "difficultyLevel": 3,
+      "regions": [
+        "Africa",
+        "India"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Historical event: French Revolution",
+      "wikipediaLink": "French Revolution",
+      "mnemonic": null,
+      "duration": 10
+    },
+    {
+      "id": 41,
+      "name": "Napoleonic Wars",
+      "startDate": "1803-01-01",
+      "endDate": "1815-01-01",
+      "startYear": 1803,
+      "endYear": 1815,
+      "category": "Historical",
+      "difficulty": "easy",
+      "difficultyLevel": 3,
+      "regions": [
+        "Africa",
+        "Greek",
+        "India"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Historical event: Napoleonic Wars",
+      "wikipediaLink": "Napoleonic Wars",
+      "mnemonic": null,
+      "duration": 12
+    },
+    {
+      "id": 42,
+      "name": "American Civil War",
+      "startDate": "1861-01-01",
+      "endDate": "1865-01-01",
+      "startYear": 1861,
+      "endYear": 1865,
+      "category": "Historical",
+      "difficulty": "easy",
+      "difficultyLevel": 2,
+      "regions": [
+        "Asia"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Historical event: American Civil War",
+      "wikipediaLink": "American Civil War",
+      "mnemonic": null,
+      "duration": 4
+    },
+    {
+      "id": 43,
+      "name": "World War I",
+      "startDate": "1914-01-01",
+      "endDate": "1918-01-01",
+      "startYear": 1914,
+      "endYear": 1918,
+      "category": "Discovery",
+      "difficulty": "easy",
+      "difficultyLevel": 1,
+      "regions": [
+        "Asia",
+        "Africa",
+        "China"
+      ],
+      "themes": [
+        "Discovery",
+        "World"
+      ],
+      "description": "Historical event: World War I",
+      "wikipediaLink": "World War I",
+      "mnemonic": null,
+      "duration": 4
+    },
+    {
+      "id": 44,
+      "name": "World War II",
+      "startDate": "1939-01-01",
+      "endDate": "1945-01-01",
+      "startYear": 1939,
+      "endYear": 1945,
+      "category": "Discovery",
+      "difficulty": "easy",
+      "difficultyLevel": 1,
+      "regions": [
+        "Asia",
+        "Africa",
+        "China"
+      ],
+      "themes": [
+        "Discovery",
+        "World"
+      ],
+      "description": "Historical event: World War II",
+      "wikipediaLink": "World War II",
+      "mnemonic": null,
+      "duration": 6
+    },
+    {
+      "id": 45,
+      "name": "Cold War",
+      "startDate": "1947-01-01",
+      "endDate": "1991-01-01",
+      "startYear": 1947,
+      "endYear": 1991,
+      "category": "Wars",
+      "difficulty": "easy",
+      "difficultyLevel": 2,
+      "regions": [
+        "Asia",
+        "Africa",
+        "China"
+      ],
+      "themes": [
+        "Wars",
+        "World"
+      ],
+      "description": "Geopolitical tension USA vs USSR.",
+      "wikipediaLink": "Cold War",
+      "mnemonic": null,
+      "duration": 44
+    },
+    {
+      "id": 46,
+      "name": "Korean War",
+      "startDate": "1950-01-01",
+      "endDate": "1953-01-01",
+      "startYear": 1950,
+      "endYear": 1953,
+      "category": "Historical",
+      "difficulty": "easy",
+      "difficultyLevel": 2,
+      "regions": [
+        "China"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Historical event: Korean War",
+      "wikipediaLink": "Korean War",
+      "mnemonic": null,
+      "duration": 3
+    },
+    {
+      "id": 47,
+      "name": "Vietnam War",
+      "startDate": "1955-01-01",
+      "endDate": "1975-01-01",
+      "startYear": 1955,
+      "endYear": 1975,
+      "category": "Historical",
+      "difficulty": "easy",
+      "difficultyLevel": 2,
+      "regions": [
+        "China"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Historical event: Vietnam War",
+      "wikipediaLink": "Vietnam War",
+      "mnemonic": null,
+      "duration": 20
+    },
+    {
+      "id": 48,
+      "name": "Gulf War",
+      "startDate": "1990-01-01",
+      "endDate": "1991-01-01",
+      "startYear": 1990,
+      "endYear": 1991,
+      "category": "Discovery",
+      "difficulty": "easy",
+      "difficultyLevel": 3,
+      "regions": [
+        "China"
+      ],
+      "themes": [
+        "Discovery",
+        "World"
+      ],
+      "description": "Historical event: Gulf War",
+      "wikipediaLink": "Gulf War",
+      "mnemonic": null,
+      "duration": 1
+    },
+    {
+      "id": 49,
+      "name": "Second Congo War",
+      "startDate": "1994-01-01",
+      "endDate": "2005-01-01",
+      "startYear": 1994,
+      "endYear": 2005,
+      "category": "Discovery",
+      "difficulty": "medium",
+      "difficultyLevel": 6,
+      "regions": [],
+      "themes": [
+        "Discovery",
+        "World"
+      ],
+      "description": "Deadliest conflict in Africa since WWII.",
+      "wikipediaLink": "Second Congo War",
+      "mnemonic": null,
+      "duration": 11
+    },
+    {
+      "id": 50,
+      "name": "Middle Ages (Europe)",
+      "startDate": "0732-01-01",
+      "endDate": "1492-01-01",
+      "startYear": 732,
+      "endYear": 1492,
+      "category": "Historical",
+      "difficulty": "easy",
+      "difficultyLevel": 3,
+      "regions": [
+        "Africa"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Historical event: Middle Ages (Europe)",
+      "wikipediaLink": "Middle Ages",
+      "mnemonic": null,
+      "duration": 760
+    },
+    {
+      "id": 51,
+      "name": "Black Death",
+      "startDate": "1347-01-01",
+      "endDate": "1351-01-01",
+      "startYear": 1347,
+      "endYear": 1351,
+      "category": "Discovery",
+      "difficulty": "easy",
+      "difficultyLevel": 3,
+      "regions": [
+        "Asia",
+        "Africa",
+        "China"
+      ],
+      "themes": [
+        "Discovery",
+        "World"
+      ],
+      "description": "Plague pandemic.",
+      "wikipediaLink": "Black Death",
+      "mnemonic": null,
+      "duration": 4
+    },
+    {
+      "id": 52,
+      "name": "Early Islamic Caliphate",
+      "startDate": "0622-01-01",
+      "endDate": "0750-01-01",
+      "startYear": 622,
+      "endYear": 750,
+      "category": "Religion",
+      "difficulty": "medium",
+      "difficultyLevel": 7,
+      "regions": [
+        "China"
+      ],
+      "themes": [
+        "Religion",
+        "Discovery",
+        "Royalty",
+        "World"
+      ],
+      "description": "From Hijra to Abbasid.",
+      "wikipediaLink": "Islamic Caliphate",
+      "mnemonic": null,
+      "duration": 128
+    },
+    {
+      "id": 53,
+      "name": "Abbasid Caliphate",
+      "startDate": "0750-01-01",
+      "endDate": "1258-01-01",
+      "startYear": 750,
+      "endYear": 1258,
+      "category": "Religion",
+      "difficulty": "medium",
+      "difficultyLevel": 7,
+      "regions": [
+        "China"
+      ],
+      "themes": [
+        "Religion",
+        "Royalty",
+        "World"
+      ],
+      "description": "Historical event: Abbasid Caliphate",
+      "wikipediaLink": "Abbasid Caliphate",
+      "mnemonic": null,
+      "duration": 508
+    },
+    {
+      "id": 54,
+      "name": "Holy Roman Empire",
+      "startDate": "0800-01-01",
+      "endDate": "1806-01-01",
+      "startYear": 800,
+      "endYear": 1806,
+      "category": "Science",
+      "difficulty": "medium",
+      "difficultyLevel": 6,
+      "regions": [
+        "Africa",
+        "Russia"
+      ],
+      "themes": [
+        "Science"
+      ],
+      "description": "Historical event: Holy Roman Empire",
+      "wikipediaLink": "Holy Roman Empire",
+      "mnemonic": null,
+      "duration": 1006
+    },
+    {
+      "id": 55,
+      "name": "Romanov Dynasty",
+      "startDate": "1613-01-01",
+      "endDate": "1917-01-01",
+      "startYear": 1613,
+      "endYear": 1917,
+      "category": "Wars",
+      "difficulty": "medium",
+      "difficultyLevel": 6,
+      "regions": [],
+      "themes": [
+        "Wars",
+        "Science"
+      ],
+      "description": "Russian royalty.",
+      "wikipediaLink": "Romanov Dynasty",
+      "mnemonic": null,
+      "duration": 304
+    },
+    {
+      "id": 56,
+      "name": "Olmec Civilization",
+      "startDate": "1200-01-01 BC",
+      "endDate": "0400-01-01 BC",
+      "startYear": -1200,
+      "endYear": -400,
+      "category": "Historical",
+      "difficulty": "hard",
+      "difficultyLevel": 9,
+      "regions": [
+        "Asia"
+      ],
+      "themes": [],
+      "description": "Early Mesoamerican culture.",
+      "wikipediaLink": "Olmec",
+      "mnemonic": null,
+      "duration": 800
+    },
+    {
+      "id": 57,
+      "name": "Maya Classic Period",
+      "startDate": "0250-01-01",
+      "endDate": "0900-01-01",
+      "startYear": 250,
+      "endYear": 900,
+      "category": "Historical",
+      "difficulty": "medium",
+      "difficultyLevel": 7,
+      "regions": [
+        "Asia"
+      ],
+      "themes": [],
+      "description": "Historical event: Maya Classic Period",
+      "wikipediaLink": "Maya civilization",
+      "mnemonic": null,
+      "duration": 650
+    },
+    {
+      "id": 58,
+      "name": "Aztec Civilization",
+      "startDate": "0900-01-01",
+      "endDate": "1521-01-01",
+      "startYear": 900,
+      "endYear": 1521,
+      "category": "Historical",
+      "difficulty": "medium",
+      "difficultyLevel": 6,
+      "regions": [
+        "Asia"
+      ],
+      "themes": [],
+      "description": "Historical event: Aztec Civilization",
+      "wikipediaLink": "Aztec Empire",
+      "mnemonic": null,
+      "duration": 621
+    },
+    {
+      "id": 59,
+      "name": "Inca Empire",
+      "startDate": "1438-01-01",
+      "endDate": "1533-01-01",
+      "startYear": 1438,
+      "endYear": 1533,
+      "category": "Discovery",
+      "difficulty": "medium",
+      "difficultyLevel": 6,
+      "regions": [
+        "Asia"
+      ],
+      "themes": [
+        "Discovery"
+      ],
+      "description": "Historical event: Inca Empire",
+      "wikipediaLink": "Inca Empire",
+      "mnemonic": null,
+      "duration": 95
+    },
+    {
+      "id": 60,
+      "name": "Middle Ages India",
+      "startDate": "0500-01-01",
+      "endDate": "1500-01-01",
+      "startYear": 500,
+      "endYear": 1500,
+      "category": "Historical",
+      "difficulty": "hard",
+      "difficultyLevel": 8,
+      "regions": [
+        "MiddleEast"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "From Gupta decline to Mughal rise.",
+      "wikipediaLink": "Indian history",
+      "mnemonic": null,
+      "duration": 1000
+    },
+    {
+      "id": 61,
+      "name": "Indus Valley Civilization",
+      "startDate": "3000-01-01 BC",
+      "endDate": "1800-01-01 BC",
+      "startYear": -3000,
+      "endYear": -1800,
+      "category": "Historical",
+      "difficulty": "hard",
+      "difficultyLevel": 9,
+      "regions": [
+        "MiddleEast"
+      ],
+      "themes": [],
+      "description": "Historical event: Indus Valley Civilization",
+      "wikipediaLink": "Indus Valley",
+      "mnemonic": null,
+      "duration": 1200
+    },
+    {
+      "id": 62,
+      "name": "Feudal Japan",
+      "startDate": "0500-01-01",
+      "endDate": "1500-01-01",
+      "startYear": 500,
+      "endYear": 1500,
+      "category": "Historical",
+      "difficulty": "medium",
+      "difficultyLevel": 7,
+      "regions": [
+        "China"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Samurai and shogunate period.",
+      "wikipediaLink": "Feudal Japan",
+      "mnemonic": null,
+      "duration": 1000
+    },
+    {
+      "id": 63,
+      "name": "Reformation and Wars of Religion",
+      "startDate": "1517-01-01",
+      "endDate": "1648-01-01",
+      "startYear": 1517,
+      "endYear": 1648,
+      "category": "Royalty",
+      "difficulty": "medium",
+      "difficultyLevel": 6,
+      "regions": [
+        "Africa"
+      ],
+      "themes": [
+        "Royalty",
+        "World"
+      ],
+      "description": "Historical event: Reformation and Wars of Religion",
+      "wikipediaLink": "Reformation",
+      "mnemonic": null,
+      "duration": 131
+    },
+    {
+      "id": 64,
+      "name": "Haitian Independence & Aftermath",
+      "startDate": "1804-01-01",
+      "endDate": "1830-01-01",
+      "startYear": 1804,
+      "endYear": 1830,
+      "category": "Historical",
+      "difficulty": "medium",
+      "difficultyLevel": 7,
+      "regions": [
+        "Asia"
+      ],
+      "themes": [
+        "World"
+      ],
+      "description": "Historical event: Haitian Independence & Aftermath",
+      "wikipediaLink": "Haiti Revolution",
+      "mnemonic": null,
+      "duration": 26
+    },
+    {
+      "id": 65,
+      "name": "Russian Revolution & Civil War",
+      "startDate": "1917-01-01",
+      "endDate": "1923-01-01",
+      "startYear": 1917,
+      "endYear": 1923,
+      "category": "Science",
+      "difficulty": "medium",
+      "difficultyLevel": 4,
+      "regions": [],
+      "themes": [
+        "Science",
+        "World"
+      ],
+      "description": "Historical event: Russian Revolution & Civil War",
+      "wikipediaLink": "Russian Revolution",
+      "mnemonic": null,
+      "duration": 6
     }
   ]
 }
