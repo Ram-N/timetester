@@ -1,4 +1,5 @@
 import { isValidYear } from '../../utils/dateHelpers';
+import TimelineSlider from '../Timeline/TimelineSlider.jsx';
 
 const DateInput = ({ userGuess, setUserGuess, onSubmit }) => {
   const handleStartYearChange = (e) => {
@@ -17,19 +18,35 @@ const DateInput = ({ userGuess, setUserGuess, onSubmit }) => {
     }));
   };
 
+  const handleTimelineYearChange = (type, year) => {
+    setUserGuess(prev => ({
+      ...prev,
+      [type + 'Year']: year
+    }));
+  };
+
   const handleSubmit = (e) => {
     e.preventDefault();
     onSubmit();
   };
 
   const isFormValid = userGuess.startYear && userGuess.endYear && 
-                     isValidYear(userGuess.startYear) && isValidYear(userGuess.endYear);
+                     isValidYear(userGuess.startYear) && isValidYear(userGuess.endYear) &&
+                     userGuess.startYear < userGuess.endYear && 
+                     (userGuess.endYear - userGuess.startYear) >= 1;
 
   return (
     <form onSubmit={handleSubmit} className="card">
       <h3 className="text-lg font-semibold mb-6 text-center">
         Enter your guess for the start and end years
       </h3>
+      
+      {/* Timeline Slider */}
+      <TimelineSlider
+        startYear={userGuess.startYear}
+        endYear={userGuess.endYear}
+        onYearChange={handleTimelineYearChange}
+      />
       
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6 mb-6">
         <div>
